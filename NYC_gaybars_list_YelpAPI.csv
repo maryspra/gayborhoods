@@ -1,0 +1,363 @@
+﻿businesses.name,businesses.url,businesses.review_count,businesses.rating,businesses.location$address1,businesses.location$address2,businesses.location$address3,city,zip_code,businesses.location$country,businesses.location$state,businesses.display_phone,businesses.distance
+3 Dollar Bill,https://www.yelp.com/biz/3-dollar-bill-brooklyn?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,69,3.6,260 Meserole St,NA,,Brooklyn,11206,US,NY,(718) 366-3031,21924.87
+4West Lounge,https://www.yelp.com/biz/4west-lounge-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,18,3.9,303 W 127th St,NA,,New York,10027,US,NY,,12148.331
+9th Avenue Saloon,https://www.yelp.com/biz/9th-avenue-saloon-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,104,3.7,656 9th Ave,,,New York,10036,US,NY,(212) 307-1503,23283.89
+Adonis Lounge,https://www.yelp.com/biz/adonis-lounge-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,62,2.8,221 E 58th St,,,New York,10022,US,NY,(845) 536-3323,17575.18
+Albatross Bar,https://www.yelp.com/biz/albatross-bar-astoria-2?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,75,4.5,3619 24th Ave,,,Astoria,11103,US,NY,(718) 204-9707,6597.18
+ANIMAL,https://www.yelp.com/biz/animal-brooklyn?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,15,3.7,307 Meeker Ave,,NA,Brooklyn,11211,US,NY,(718) 550-0280,21865.6
+Atlas Social Club,https://www.yelp.com/biz/atlas-social-club-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,102,2.6,753 9th Ave,,,New York,10019,US,NY,(212) 262-8527,15749.41
+Balcon Salon,https://www.yelp.com/biz/balcon-salon-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,12,4.1,674 9th Ave,,NA,New York,10036,US,NY,,23353.36
+Big Apple Ranch,https://www.yelp.com/biz/big-apple-ranch-new-york-2?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,5,5,320 W 37th St,Fl 2,,New York,10018,US,NY,(917) 974-3401,22580.05
+Blue Star a Party For Girls Who Like Girls,https://www.yelp.com/biz/blue-star-a-party-for-girls-who-like-girls-manhattan?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,1,5,The Bowery Electric,,327 Bowery,Manhattan,10003,US,NY,,20075.89
+Body Shop Bar,https://www.yelp.com/biz/body-shop-bar-brooklyn?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,2,5,698 Nostrand Ave,NA,,Brooklyn,11216,US,NY,(719) 644-0700,18942.67
+Boxers,https://www.yelp.com/biz/boxers-new-york-5?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,11,2.5,735 9th Ave,,NA,New York,10019,US,NY,(646) 360-2745,15683.92
+Boxers HK,https://www.yelp.com/biz/boxers-hk-new-york-2?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,250,2.8,742 9th Ave,,,New York,10019,US,NY,(646) 360-2745,15691.35
+Boxers NYC - Chelsea,https://www.yelp.com/biz/boxers-chelsea-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,266,3.2,37 W 20th St,NA,,New York,10011,US,NY,(212) 255-5082,21327.97
+Boyfriend Co-Op,https://www.yelp.com/biz/boyfriend-co-op-brooklyn?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,14,4.6,1157 Myrtle Ave,NA,,Brooklyn,11206,US,NY,(760) 828-0778,21419.09
+Brandy's Piano Bar,https://www.yelp.com/biz/brandys-piano-bar-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,328,3.6,235 E 84th St,,,New York,10028,US,NY,(212) 744-4949,9878.232
+Club Cumming,https://www.yelp.com/biz/club-cumming-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,63,4.3,505 E 6th St,,NA,New York,10009,US,NY,(917) 265-8006,20499.89
+Club Lambda,https://www.yelp.com/biz/club-lambda-brooklyn?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,0,0,1031 Grand St,NA,NA,Brooklyn,11211,US,NY,,22587.49
+Cubbyhole,https://www.yelp.com/biz/cubbyhole-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,454,3.7,281 W 12th St,,,New York,10014,US,NY,(212) 243-9041,20538.27
+Dive Bar Lounge,https://www.yelp.com/biz/dive-bar-lounge-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,86,3.5,667 10th Ave,,,New York,10036,US,NY,(646) 756-5230,23357.59
+Fairytail Lounge,https://www.yelp.com/biz/fairytail-lounge-new-york-2?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,0,0,500 W 48th St,NA,NA,New York,10036,US,NY,(646) 684-3897,23431.52
+Flaming Saddles Saloon,https://www.yelp.com/biz/flaming-saddles-saloon-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,240,3.9,793 9th Ave,NA,,New York,10019,US,NY,(212) 713-0481,15846.54
+Flex Nyc,https://www.yelp.com/biz/flex-nyc-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,10,4,405 W 51st St,NA,,New York,10019,US,NY,(646) 449-8684,15748.7
+Friend's Tavern,https://www.yelp.com/biz/friends-tavern-jackson-heights?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,51,3.8,78-11 Roosevelt Ave,,,Jackson Heights,11372,US,NY,(718) 397-7256,6843.2614
+G lounge,https://www.yelp.com/biz/g-lounge-new-york-2?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,4,4.5,225 W 19th St,NA,,New York,10011,US,NY,(646) 863-2914,21215.73
+Ginger's Bar,https://www.yelp.com/biz/gingers-bar-brooklyn?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,122,3.5,363 5th Ave,,,Brooklyn,11215,US,NY,,16344.02
+Good Judy,https://www.yelp.com/biz/good-judy-brooklyn?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,30,4.1,563 5th Ave,,NA,Brooklyn,11215,US,NY,,15612.54
+Gym Sportsbar,https://www.yelp.com/biz/gym-sportsbar-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,128,3.5,167 8th Ave,NA,,New York,10011,US,NY,(212) 337-2439,21134.77
+Happyfun Hideaway,https://www.yelp.com/biz/happyfun-hideaway-brooklyn?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,117,3.3,1211 Myrtle Ave,,,Brooklyn,11221,US,NY,,21649.99
+Hardware Bar,https://www.yelp.com/biz/hardware-bar-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,139,3.5,697 10th Ave,NA,,New York,10036,US,NY,(212) 924-9885,23404.69
+Henrietta Hudson,https://www.yelp.com/biz/henrietta-hudson-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,244,3.3,438-444 Hudson St,,,New York,10014,US,NY,(212) 924-3347,19799.18
+Hombres Lounge,https://www.yelp.com/biz/hombres-lounge-estados-unidos?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,55,3.3,85-28 37th Ave,,,Estados Unidos,11372,US,NY,(718) 930-0886,7411.2843
+Hush,https://www.yelp.com/biz/hush-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,33,3.3,348 W 52nd St,NA,NA,New York,10019,US,NY,(646) 833-7174,15899.54
+Icon Bar,https://www.yelp.com/biz/icon-bar-astoria-2?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,94,4.4,31-84 33rd St,,NA,Astoria,11106,US,NY,(917) 832-6364,6757.8684
+Industry Bar,https://www.yelp.com/biz/industry-bar-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,288,2.7,355 W 52nd St,NA,,New York,10019,US,NY,(646) 476-2747,15903.15
+Julius’,https://www.yelp.com/biz/julius-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,136,3.9,159 W 10th St,,,New York,10014,US,NY,(212) 243-1928,20349.88
+Kween Astoria,https://www.yelp.com/biz/kween-astoria-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,105,4.6,34-10 30th Ave,NA,,New York,11103,US,NY,(917) 231-1932,7279.091
+Lambda Lounge,https://www.yelp.com/biz/lambda-lounge-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,20,2.9,2256 Adam Clayton Powell Jr Blvd,,NA,New York,10027,US,NY,(646) 669-8008,12025.773
+Loafers Cocktail Bar,https://www.yelp.com/biz/loafers-cocktail-bar-brooklyn?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,0,0,517 Court St,NA,NA,Brooklyn,11231,US,NY,,15603.24
+Metropolitan,https://www.yelp.com/biz/metropolitan-brooklyn?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,247,3.5,559 Lorimer St,,,Brooklyn,11211,US,NY,(718) 599-4444,21571.65
+Mood Ring,https://www.yelp.com/biz/mood-ring-brooklyn-2?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,65,3.9,1260 Myrtle Ave,NA,,Brooklyn,11221,US,NY,(917) 818-1738,21990.07
+Next By 4West,https://www.yelp.com/biz/next-by-4west-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,8,4.4,1838 Adam Clayton Powell Jr Blvd,NA,,New York,10026,US,NY,,11527.79
+No Bar,https://www.yelp.com/biz/no-bar-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,21,3,25 Cooper Square,,NA,New York,10003,US,NY,(212) 475-5700,20302.12
+Nowhere,https://www.yelp.com/biz/nowhere-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,153,3.4,322 E 14th St,,,New York,10003,US,NY,(212) 477-4744,21000.68
+Oberon,https://www.yelp.com/biz/oberon-brooklyn?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,1,5,196 N 10th St,NA,NA,Brooklyn,11211,US,NY,(917) 392-7850,21619.22
+Phoenix,https://www.yelp.com/biz/phoenix-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,157,3.5,447 E 13th St,,,New York,10009,US,NY,(212) 477-9979,21008.27
+Pieces,https://www.yelp.com/biz/pieces-new-york-2?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,201,3.2,8 Christopher St,NA,,New York,10014,US,NY,(212) 929-9291,20364.04
+Pint,https://www.yelp.com/biz/pint-jersey-city?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,176,4.3,34 Wayne St,,,Jersey City,7302,US,NJ,(201) 367-1222,16999.76
+Playhouse Bar,https://www.yelp.com/biz/playhouse-bar-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,37,3.1,100 7th Ave S,,NA,New York,10014,US,NY,,20128.08
+Red Eye NY,https://www.yelp.com/biz/red-eye-ny-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,8,4.4,355 W 41 St,,NA,New York,10036,US,NY,(866) 355-4169,22916.33
+Rise Bar,https://www.yelp.com/biz/rise-bar-new-york-2?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,261,3.8,859 9th Ave,NA,,New York,10019,US,NY,(646) 892-3313,15999.33
+RockBar,https://www.yelp.com/biz/rockbar-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,75,3.4,185 Christopher St,,,New York,10014,US,NY,(212) 675-1864,19796.33
+Sandy Jack’s,https://www.yelp.com/biz/sandy-jack-s-brooklyn?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,27,4.7,683 5th Ave,,NA,Brooklyn,11215,US,NY,(347) 889-6078,15116.08
+Six 26,https://www.yelp.com/biz/six-26-jersey-city?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,161,3.7,128 Christopher Columbus Dr,NA,,Jersey City,7302,US,NJ,(201) 706-2273,17091.76
+Suite,https://www.yelp.com/biz/suite-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,68,3.7,992 Amsterdam Ave,,,New York,10027,US,NY,(212) 222-4600,902.4347
+Susi Villa Tplayground,https://www.yelp.com/biz/susi-villa-tplayground-new-york-5?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,5,4.4,134 9th Ave,NA,NA,New York,10011,US,NY,(347) 778-1262,21116.5
+The 244 Spot,https://www.yelp.com/biz/the-244-spot-south-amboy?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,7,4.3,244 Cedar St,,NA,South Amboy,8879,US,NJ,(732) 313-7991,17194.35
+The Beta House,https://www.yelp.com/biz/the-beta-house-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,2,3.5,550 W 114th St,NA,,New York,10025,US,NY,,993.0536
+The Boiler Room,https://www.yelp.com/biz/the-boiler-room-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,188,3.6,45 2nd Ave,,,New York,10003,US,NY,,20125.49
+The Cock,https://www.yelp.com/biz/the-cock-new-york-2?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,61,3.4,93 2nd Ave,,,New York,10003,US,NY,(212) 777-6254,20345.3
+The Duplex,https://www.yelp.com/biz/the-duplex-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,368,3.7,61 Christopher St,,,New York City,10014,US,NY,(212) 255-5438,20246.96
+The Eagle,https://www.yelp.com/biz/the-eagle-new-york-2?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,163,3.5,554 W 28th St,,,New York,10001,US,NY,(646) 473-1866,21812.58
+The Exley,https://www.yelp.com/biz/the-exley-brooklyn-2?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,70,4.3,1 Jackson St,,,Brooklyn,11211,US,NY,(347) 599-2430,21632.01
+The Line Sports Grill,https://www.yelp.com/biz/the-line-sports-grill-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,0,0,94-00 Ditmars Blvd,NA,,New York,11369,US,NY,(212) 200-2020,4717.238
+The Monster,https://www.yelp.com/biz/the-monster-new-york-2?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,240,3.2,80 Grove St,,,New York,10014,US,NY,(212) 924-3558,20229.28
+The Ritz,https://www.yelp.com/biz/the-ritz-new-york-2?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,325,3.3,369 W 46th St,NA,,New York,10036,US,NY,(612) 245-4020,23337
+The Rosemont,https://www.yelp.com/biz/the-rosemont-brooklyn?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,57,3.8,63 Montrose Ave,,,Brooklyn,11206,US,NY,(347) 987-3101,21237.68
+The Stonewall Inn,https://www.yelp.com/biz/the-stonewall-inn-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,441,3.7,53 Christopher St,,,New York,10014,US,NY,(212) 488-2705,20263.63
+The Tool Box,https://www.yelp.com/biz/the-tool-box-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,66,3.8,1742 2nd Ave,NA,,New York,10128,US,NY,(212) 348-1288,9799.271
+Townhouse Piano Bar of NYC,https://www.yelp.com/biz/townhouse-piano-bar-of-nyc-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,120,3.4,236 E 58th St,,,New York,10022,US,NY,(212) 754-4649,17579.49
+True Colors,https://www.yelp.com/biz/true-colors-jackson-heights?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,35,3.1,79-15 Roosevelt Ave,,,Jackson Heights,11372,US,NY,(718) 672-7505,6904.5472
+Ty's,https://www.yelp.com/biz/tys-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,76,3.8,114 Christopher St,,,New York,10014,US,NY,(212) 741-9641,20047.64
+Uncle Charlie's,https://www.yelp.com/biz/uncle-charlies-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,99,3.7,139 E 45th St,Fl 2,,New York,10017,US,NY,(646) 476-9532,23403.72
+VERS,https://www.yelp.com/biz/vers-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,28,4.6,714 9th Ave,,NA,New York,10019,US,NY,(917) 300-8834,23519.87
+Viva La Heights,https://www.yelp.com/biz/viva-la-heights-queens?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,7,3.7,78-13 Roosevelt Ave,,NA,Queens,11372,US,NY,,6840.7007
+VV Bar,https://www.yelp.com/biz/vv-bar-new-york?adjust_creative=d3YklTKJXdWClZK4UYQ_mg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=d3YklTKJXdWClZK4UYQ_mg,1,5,325 W 51st St,,NA,New York,10019,US,NY,(212) 399-9291,15904.35
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
